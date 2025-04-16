@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Gabriel Zatti!
 
 Bem-vindo(a) ao meu GitHub! Aqui você vai encontrar projetos, ideias, experimentos e muito código 💻
 
